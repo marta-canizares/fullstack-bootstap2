@@ -1,0 +1,19 @@
+.row {
+    min-height: 200px;
+    
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.imagen {
+    border-radius: 2px;
+    background-color: rgb(13, 114, 173);
+    border: 1px solid black;
+    text-align: center;
+}
+
+.container {
+    padding: 0;
+}
